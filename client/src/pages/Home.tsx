@@ -74,7 +74,7 @@ export function Home() {
         <div className="flex flex-col items-center mb-8">
           <Logo className="mb-6" />
           <h1 className="text-2xl lg:text-4xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-200">
-            What do you want to know?
+            你想了解什么？
           </h1>
         </div>
 

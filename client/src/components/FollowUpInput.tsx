@@ -57,7 +57,7 @@ export function FollowUpInput({
         ) : (
           <>
             <MessageSquarePlus className="h-4 w-4" />
-            Ask
+            继续提问
           </>
         )}
       </Button>
